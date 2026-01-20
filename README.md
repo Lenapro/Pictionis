@@ -202,15 +202,6 @@ npm run web
 rm -rf node_modules
 npm install
 ```
+## 🎥 Vidéos de démonstration
 
-## 📄 Licence
-
-Ce projet est un projet scolaire ETNA.
-
-## 👥 Contributeurs
-
-- Groupe 1011108
-
----
-
-Pour plus d'informations ou des questions, consultez la documentation de [React Native](https://reactnative.dev/) et [Expo](https://docs.expo.dev/).
+https://drive.google.com/file/d/17oySv8gGb5UxTvn6ooyi6luwu2Z3Y449/view?usp=sharing
